@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "kto je kralom dzungle",
+      "option1": "vlk",
+      "option2": "jelen",
+      "option3": "srnka",
+      "option4": "lev",
+      "right_answer": "4"
+    },
+    {
+      "question": "a kto mori",
+      "option1": "delfin",
+      "option2": "zralok",
+      "option3": "jastrab",
+      "option4": "veleryba",
+      "right_answer": "2"
+    }
+  ]
+}
